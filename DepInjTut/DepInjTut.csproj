@@ -44,11 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\IEngineParts.cs" />
     <Compile Include="Interfaces\IFuelPump.cs" />
     <Compile Include="Interfaces\ISparkPlug.cs" />
     <Compile Include="Interfaces\IEngine.cs" />
     <Compile Include="Models\Car.cs" />
     <Compile Include="Models\Engine.cs" />
+    <Compile Include="Models\EngineParts.cs" />
     <Compile Include="Models\FuelPump.cs" />
     <Compile Include="Models\SparkPlug.cs" />
     <Compile Include="Modules\Mercedes.cs" />

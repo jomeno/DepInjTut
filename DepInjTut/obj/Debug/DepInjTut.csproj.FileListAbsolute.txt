@@ -6,3 +6,11 @@ C:\Projects\Tutorials\DepInjTut\DepInjTut\bin\Debug\Ninject.dll
 C:\Projects\Tutorials\DepInjTut\DepInjTut\bin\Debug\Ninject.xml
 C:\Projects\Tutorials\DepInjTut\DepInjTut\obj\Debug\DepInjTut.exe
 C:\Projects\Tutorials\DepInjTut\DepInjTut\obj\Debug\DepInjTut.pdb
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\bin\Debug\DepInjTut.exe.config
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\obj\Debug\DepInjTut.exe
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\obj\Debug\DepInjTut.pdb
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\obj\Debug\DepInjTut.csprojResolveAssemblyReference.cache
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\bin\Debug\DepInjTut.exe
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\bin\Debug\DepInjTut.pdb
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\bin\Debug\Ninject.dll
+C:\Projects\Net\Tutorials\DepInjTut\DepInjTut\bin\Debug\Ninject.xml

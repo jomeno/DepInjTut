@@ -14,6 +14,7 @@ namespace DepInjTut.Modules
         public override void Load()
         {
             Bind<IFuelPump>().To<FuelPump>();
+            Bind<IEngineParts>().To<EngineParts>();
             Bind<ISparkPlug>().To<SparkPlug>();
             Bind<IEngine>().To<Engine>();
         }

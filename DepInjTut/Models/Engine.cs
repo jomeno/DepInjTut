@@ -13,10 +13,10 @@ namespace DepInjTut.Models
         private IFuelPump _pump;
 
 
-        public Engine(ISparkPlug plug, IFuelPump pump) 
+        public Engine(IEngineParts parts) 
         {
-            _plug = plug;
-            _pump = pump;
+            _plug = parts.Plug;
+            _pump = parts.Pump;
         }
 
         public int Combust()
